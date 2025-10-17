@@ -5,7 +5,7 @@
 <div id="toc">
   <img src=".assets/social.png" width="100%"/>
   <ul align="left" style="list-style:none">
-    <summary><h2>OVERVIEW</h2></summary>
+    <summary><h1>OVERVIEW</h1></summary>
   </ul>
 </div>
 
