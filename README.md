@@ -4,8 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 # <samp>FUNDINGS</samp>
 
-<img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/>
-
+<img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/>
 
 # <samp>FEATURES</samp>
 
