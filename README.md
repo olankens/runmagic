@@ -1,4 +1,6 @@
-![](.assets/social.png)
+<!-- ![](.assets/social.png) -->
+
+<img src=".assets/social.png" width="100%"/>
 
 # OVERVIEW
 
