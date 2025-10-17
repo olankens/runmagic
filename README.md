@@ -20,6 +20,8 @@ Tahoe ICNS files need 10% padding, which many icons from [macOSicons](https://ma
 curl -sSL https://raw.githubusercontent.com/olankens/runmagic/HEAD/src/create-tahoe-icns.sh | bash
 ```
 
+---
+
 ### Vanish GtHub Repository
 
 <img src="https://lipsum.app/632x640/452981/fff" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/632x640/452981/fff" width="49.375%"/>
