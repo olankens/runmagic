@@ -1,9 +1,9 @@
 <!-- ![](.assets/social.png)
 
 ### OVERVIEWS -->
-
+<img src=".assets/social.png" width="100%"/>
 <div id="toc">
-  <img src=".assets/social.png" width="100%"/>
+  
   <ul align="left" style="list-style:none">
     <summary><h1>OVERVIEW</h1></summary>
   </ul>
