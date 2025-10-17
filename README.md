@@ -3,6 +3,7 @@
 <div id="toc">
   <ul align="center" style="list-style:none">
     <summary>
+      <hr>
       <h1><samp>OVERVIEW</samp></h1>
     </summary>
   </ul>
