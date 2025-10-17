@@ -1,7 +1,5 @@
 ![](.assets/social.png)
 
----
-
 <img src="https://lipsum.app/416x160/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x160/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x160/f7df1e/000" width="32.5%"/>
 
 ---
