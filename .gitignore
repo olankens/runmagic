@@ -1,0 +1,6 @@
+# Ignore everywhere
+.DS_Store
+
+# Ignore only for the root
+/*.icns
+/*.png
