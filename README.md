@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 # <samp>DONATION</samp>
 
-<a><img src=".assets/donate.png" width="49.375%"/></a>
+<a><img src=".assets/bmc-wide.png" width="49.375%"/></a><img src=".assets/1x1.png" width="1.25%"/><a><img src=".assets/bmc-narrow.png" width="24.0625%"/></a><img src=".assets/1x1.png" width="1.25%"/><a><img src=".assets/bmc-narrow.png" width="24.0625%"/></a>
 
 # <samp>GUIDANCE</samp>
 
