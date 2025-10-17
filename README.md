@@ -8,7 +8,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 ### Create .ICNS for Tahoe
 
-<img src=".assets/632x640.png" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/632x640.png" width="49.375%"/>
+<img src=".assets/right.png" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/wrong.png" width="49.375%"/>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam facilisis arcu sed leo pharetra, quis malesuada dui tincidunt. In vel mauris neque. Sed eu porta arcu, id ultricies dui.
 
 ```shell
 curl -sSL https://raw.githubusercontent.com/olankens/runmagic/HEAD/src/create-tahoe-icns.sh | bash

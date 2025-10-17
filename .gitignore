@@ -1,6 +1,8 @@
-# Ignore everywhere
-.DS_Store
+# Ignore .png and .icns everywhere except in .assets
+*.png
+*.icns
+!.assets/**/*.png
+!.assets/**/*.icns
 
-# Ignore only for the root
-/*.icns
-/*.png
+# Ignore macOS system files
+.DS_Store
