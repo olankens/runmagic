@@ -4,6 +4,7 @@
 
 <div id="toc">
   <p><img src=".assets/social.png" width="100%"/></p>
+  <hr>
   <ul align="left" style="list-style:none">
     <!-- <summary><h1><samp>OVERVIEW</samp></h1></summary> -->
     <summary><h1>OVERVIEW</h1></summary>
