@@ -4,42 +4,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 # <samp>FUNDINGS</samp>
 
-<img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/416x640/f7df1e/000" width="32.5%"/>
+<img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/><img src=".assets/1x1.png" width="1.25%"/><img src="https://lipsum.app/200x200/f7df1e/000" width="15.625%"/>
+
 
 # <samp>FEATURES</samp>
 
 # <samp>PREVIEWS</samp>
 
 # <samp>GUIDANCE</samp>
-
-### Create ICNS for Tahoe
-
-<img src=".assets/right.png" width="49.375%"/><img src=".assets/1x1.png" width="1.25%"/><img src=".assets/wrong.png" width="49.375%"/>
-
-Tahoe ICNS files need 10% padding, which many icons from [macOSicons](https://macosicons.com/) lack. This command generates a properly padded ICNS from a 1024×1024 PNG file, ideally exported from the [Icon Composer](https://developer.apple.com/icon-composer/) application.
-
-```shell
-curl -sSL https://raw.githubusercontent.com/olankens/runmagic/HEAD/src/create-tahoe-icns.sh | bash
-```
-
-
-
-<div id="toc">
-  <img src=".assets/social.png" width="100%"/>
-  <ul align="left" style="list-style:none">
-    <summary><h1><samp>OVERVIEW</samp></h1></summary>
-    <!-- <summary><h1>OVERVIEW</h1></summary> -->
-  </ul>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis nibh vitae mattis. Nunc nec pretium nisl. Sed accumsan dignissim nisi, mollis facilisis nulla interdum eu. Maecenas diam augue, pulvinar a mattis a, gravida nec ante. Donec convallis nulla et elit consectetur, at egestas ex lobortis. Mauris in aliquam urna. Quisque sit amet libero vel nulla molestie sagittis non a odio. Nulla id nisi ante. In hac habitasse platea dictumst. Phasellus sodales elit quis metus mollis, eu molestie massa imperdiet.</p>
-</div>
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis nibh vitae mattis. Nunc nec pretium nisl. Sed accumsan dignissim nisi, mollis facilisis nulla interdum eu. Maecenas diam augue, pulvinar a mattis a, gravida nec ante. Donec convallis nulla et elit consectetur, at egestas ex lobortis. Mauris in aliquam urna. Quisque sit amet libero vel nulla molestie sagittis non a odio. Nulla id nisi ante. In hac habitasse platea dictumst. Phasellus sodales elit quis metus mollis, eu molestie massa imperdiet. -->
-
-<div id="toc">
-  <ul align="left" style="list-style:none">
-    <summary><h2>FEATURES</h2></summary>
-  </ul>
-</div>
 
 ### Create ICNS for Tahoe
 
