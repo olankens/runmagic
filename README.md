@@ -4,7 +4,7 @@
 
 <div id="toc">
   <ul align="left" style="list-style:none">
-    <summary><h1>OVERVIEW</h1></summary>
+    <summary><h2>OVERVIEW</h2></summary>
   </ul>
 </div>
 
@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis 
 
 <div id="toc">
   <ul align="left" style="list-style:none">
-    <summary><h1>FEATURES</h1></summary>
+    <summary><h2>FEATURES</h2></summary>
   </ul>
 </div>
 
