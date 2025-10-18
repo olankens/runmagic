@@ -1,12 +1,6 @@
-<a><img src=".assets/social.png" width="100%"/></a>
-
 # <samp>OVERVIEW</samp>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum iaculis nibh vitae mattis. Nunc nec pretium nisl. Sed accumsan dignissim nisi, mollis facilisis nulla interdum eu. Maecenas diam augue, pulvinar a mattis a, gravida nec ante. Donec convallis nulla et elit consectetur, at egestas ex lobortis. Mauris in aliquam urna. Quisque sit amet libero vel nulla molestie sagittis non a odio. Nulla id nisi ante. In hac habitasse platea dictumst. Phasellus sodales elit quis metus mollis, eu molestie massa imperdiet.
-
----
-
-# <samp>GUIDANCE</samp>
 
 ### Create ICNS for Tahoe
 
@@ -17,8 +11,6 @@ Tahoe ICNS files need 10% padding, which many icons from [macOSicons](https://ma
 ```shell
 curl -sSL https://raw.githubusercontent.com/olankens/runmagic/HEAD/src/create-tahoe-icns.sh | bash
 ```
-
----
 
 ### Vanish GtHub Repository
 
